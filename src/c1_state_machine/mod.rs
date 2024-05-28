@@ -37,3 +37,4 @@ pub enum User {
 
 //TODO Some kind of main program that allows users to interact with their state machine in a repl-like way.
 // Might require From<String> implementation for the transition type.
+
